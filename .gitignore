@@ -1,5 +1,9 @@
 # Datasets
 dataset/
+testset/
+*.csv
+*.pth
+*.pt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
